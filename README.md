@@ -3,11 +3,13 @@
 
 Completed by ***Bert Foxwell***
 
+## Repository Link:  https://github.com/FoxwellBertGHB2020/Kickstarter-Analysis
+
 ### Objective
 Determine what criteria provides the best chance of a successful campaign
 
 ### Data Resources
 Supplied database: data-1-1-3-StarterBook.xlsx
 
-### Sofware & techniques
+### Sofware Used  
 Microsoft™ Excel
