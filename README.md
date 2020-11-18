@@ -1,2 +1,2 @@
-# An Analysis of Kickstarter Campaigns
-Statistical analysis of Kickstarter campaign data to uncover trends
+# Kickstarter Campaign Analysis
+## Statistical analysis of theater/play crowdfunding campaign: "Fever"
