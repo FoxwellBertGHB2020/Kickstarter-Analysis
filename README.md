@@ -28,8 +28,8 @@ Starting a campaign in the month of December, followed by September should be av
 
 
 ## Visual Results
-The [*Outcomes Based on Launch Date*] marked Line Chart shows the best & worst times of the year to start a campaign for a Play.
-https://github.com/FoxwellBertGHB2020/Kickstarter-Analysis/Outcomes_Based_on_Launch_Date.pdf 
+The [*Outcomes Based on Launch Date*] (Kickstarter-Analysis/Outcomes_Based_on_Launch_Date.pdf) marked Line Chart shows the best & worst times of the year to start a campaign for a Play.
+
 
 
 
