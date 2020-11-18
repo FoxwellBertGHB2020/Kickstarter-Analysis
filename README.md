@@ -8,3 +8,6 @@ Determine what criteria provides the best chance of a successful campaign
 
 ### Data Resources
 Supplied database: data-1-1-3-StarterBook.xlsx
+
+### Sofware & techniques
+Microsoft™ Excel
