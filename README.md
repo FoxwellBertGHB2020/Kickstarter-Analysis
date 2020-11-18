@@ -1,4 +1,4 @@
 # Kickstarter Campaign Analysis
-## Statistical analysis of crowdfunding campaign for Play: "Fever"
+## Statistical analysis of proposed crowdfunding campaign for Play: "Fever"
 
 Completed by ***Bert Foxwell***
