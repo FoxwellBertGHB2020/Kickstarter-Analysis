@@ -22,9 +22,10 @@ Microsoft™ Excel
 
 ## Visual Aids
 The [*Outcomes Based on Launch Date*](Outcomes_Launch_Date.pdf) marked Line Chart shows the best & worst times of the year to start a campaign for a Play.
+The [*Theater Subcategory Chart for the USA*](TheaterSubcategoryChartUS.pdf) stacked bar charts shows the number of successful Theater campaigns in the USA.
 
 # Analysis Results
-There is good information for **Louise** with her choice of a crowfunding campaign for her Play *Fever*.
+There is good information for **Louise** with her choice of a crowfunding campaign for her Play *Fever*.  In the USA Theater Campaigns, Plays in particular are more than 60% successful.
 Based on the provided data the month of May, followed by June are the best times of the year to kick off a campaign for a Play.
 Starting a campaign in the month of December, followed by September should be avoided for best chance of success.
 
