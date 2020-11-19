@@ -24,6 +24,7 @@ Microsoft™ Excel
 The [*Outcomes Based on Launch Date*](Outcomes_Launch_Date.pdf) marked Line Chart shows the best & worst times of the year to start a campaign for a Play.
 
 # Analysis Results
+There is good information for **Louise** with her choice of a crowfunding campaign for her Play *Fever*.
 Based on the provided data the month of May, followed by June are the best times of the year to kick off a campaign for a Play.
 Starting a campaign in the month of December, followed by September should be avoided for best chance of success.
 
