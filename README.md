@@ -28,7 +28,7 @@ Starting a campaign in the month of December, followed by September should be av
 
 
 ## Visual Results
-The [*Outcomes Based on Launch Date*] (/Outcomes_Based_on_Launch_Date.pdf) marked Line Chart shows the best & worst times of the year to start a campaign for a Play.
+The [*Outcomes Based on Launch Date*] [/Outcomes_Based_on_Launch_Date.pdf] marked Line Chart shows the best & worst times of the year to start a campaign for a Play.
 
 
 
