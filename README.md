@@ -21,8 +21,7 @@ Microsoft™ Excel
 * Build & export Line, Stacked Column and Box & Whisker Charts for visual references
 
 ## Numerical Results
-Based on the provided data filtered
-The month of May, followed by June are the best times of the year to kick off a campaign for a Play.
+Based on the provided data the month of May, followed by June are the best times of the year to kick off a campaign for a Play.
 Starting a campaign in the month of December, followed by September should be avoided for best chance of success.
 
 
