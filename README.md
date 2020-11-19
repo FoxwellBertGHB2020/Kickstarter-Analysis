@@ -20,14 +20,15 @@ Microsoft™ Excel
 * Create Pivot tables of filtered data to generate numerical results
 * Build & export Line, Stacked Column and Box & Whisker Charts for visual references
 
-## Analysis Results
+## Visual Aids
+The [*Outcomes Based on Launch Date*](Outcomes_Launch_Date.pdf) marked Line Chart shows the best & worst times of the year to start a campaign for a Play.
+
+# Analysis Results
 Based on the provided data the month of May, followed by June are the best times of the year to kick off a campaign for a Play.
 Starting a campaign in the month of December, followed by September should be avoided for best chance of success.
 
 
 
-## Visual Aids
-The [*Outcomes Based on Launch Date*](Outcomes_Launch_Date.pdf) marked Line Chart shows the best & worst times of the year to start a campaign for a Play.
 
 
 
